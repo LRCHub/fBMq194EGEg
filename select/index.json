@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フラッピング・アディクション",
+  "base_artist": "一筆かもめ",
+  "createdAt": "2026-02-24T13:28:21.560093Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラッピング・アディクション",
+      "artist": "一筆かもめ",
+      "has_synced": false,
+      "path": "select/pl_01_フラッピング・アディクション_一筆かもめ.txt"
+    }
+  ]
+}
