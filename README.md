@@ -1,0 +1,35 @@
+# 一筆かもめ – フラッピング・アディクション
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+今日のテーマは大革命！なんてちょっとも思えやしな
+いです
+が！じたばたの最果てにやっぱ通じなくてブルー
+愛を込めて放った4拍子　誰かの心ぶち抜いてった
+なんかヘンになってきちゃうような夜な夜な浮遊
+灰の中で迷子の感情は徐々に熱を帯びギラギラ
+思い出してよ初めて眩んだ日のパトスを
+この夢から連れ出して！覚まして！
+揺らぎ滔々と流れる警戒音
+この夢から連れ出して！覚まして！
+歪んだこの痛みが止むまで
+I don't see your inner space, I seek everyday
+But, there's no answer anywhere
+I think I'm broken forever ago
+Let's dance with this loop of rendering
+Wanna join our party or just kill me
+If this nightmare lasts forever
+"This tough world is fake", I murmur
+That must seem stupid for you that named "normal
+"
+Get down
+この夢の終着点にレンズはつゆも輝いてないのかも
+でもあたし飛んでいけるかなぁ？
+前後もわかんなくなるくらい突き抜けたい
+この夢と連れ立って、鳴らして！
+繋ぐ滔々と溢れる絶対愛
+この音を連れ出して！降らして！
+歪んだ痛みは形を変え　宙の彼方貫け
+この鼓動が止むまで　君を狂わせるまで
+```
